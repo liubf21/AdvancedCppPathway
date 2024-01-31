@@ -20,6 +20,7 @@
 
 ### 2. 现代 C++ 高级用法与特性
    - 掌握 C++11/14/17/20 的新特性，如智能指针、Lambda 表达式和并发编程。
+     - https://paul.pub/cpp-lambda-function-bind/
    - 理解模板元编程和高级模板技巧。
 
 ### 3. 数据结构与算法
@@ -27,7 +28,13 @@
    - 比较自实现版本与 STL 的异同。
 
 ### 4. 并发、线程和网络编程
-   - 探究多线程编程的原理与实践。
+   - 探究多线程编程的原理与实践。 
+     - https://paul.pub/cpp-concurrency/
+     - https://paul.pub/cpp-memory-model/
+     - https://zhuanlan.zhihu.com/p/24983412/
+     - https://www.zhihu.com/question/58788141
+     - https://coolshell.cn/articles/8239.html
+     - https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019/
    - 学习使用 C++ 进行基本的网络通信。
 
 ### 5. 设计模式
@@ -61,6 +68,8 @@
 - 《Effective C++》 by Scott Meyers
 - 《More Effective C++》 by Scott Meyers
 - 《C++ Primer》 by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo
+- 《Linux 高性能服务器编程》 by 游双
+- 《Linux 多线程服务端编程：使用muduo C++网络库》 by 陈硕
 
 这些书籍深入浅出，对理解 C++ 的高级概念和最佳实践大有裨益。
 
