@@ -27,7 +27,7 @@
    - 用 C++ 实现常用数据结构和算法。
    - 比较自实现版本与 STL 的异同。
 
-### 4. 并发、线程和网络编程
+### 4. 并发编程和网络编程
    - 探究多线程编程的原理与实践。 
      - https://paul.pub/cpp-concurrency/
      - https://paul.pub/cpp-memory-model/
@@ -35,6 +35,7 @@
      - https://www.zhihu.com/question/58788141
      - https://coolshell.cn/articles/8239.html
      - https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019/
+     - 现代 C++ 教程：高速上手 C++ 11/14/17/20 https://changkun.de/modern-cpp/zh-cn/07-thread/
    - 学习使用 C++ 进行基本的网络通信。
 
 ### 5. 设计模式
